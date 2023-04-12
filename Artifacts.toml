@@ -1,0 +1,358 @@
+[[FireFly]]
+arch = "aarch64"
+git-tree-sha1 = "d593749a76a3ba03dac9b0bfd6f89bcae75c8f98"
+mpi = "mpich"
+os = "macos"
+
+    [[FireFly.download]]
+    sha256 = "9a6930e134f2d2fea1ce03329f5f8f25b8a34e2b90a47ebc126b534e56975f4e"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.aarch64-apple-darwin-mpi+mpich.tar.gz"
+[[FireFly]]
+arch = "aarch64"
+git-tree-sha1 = "0958d86dd93e0330b5cfcc7729ceae3e89809c21"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[FireFly.download]]
+    sha256 = "68cc67c5abff8b62b0d0a24feeccfe4f7102b99f8dd27c59ff41285a8064d330"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[FireFly]]
+arch = "aarch64"
+git-tree-sha1 = "2f372c3cf7ff287f15fb360dd8cb9d64ad21d2f9"
+mpi = "openmpi"
+os = "macos"
+
+    [[FireFly.download]]
+    sha256 = "8cde06c80180bab062c95b92b130119cd74475f9e0162a702d3d577041629045"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+[[FireFly]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d416e7a0922593f796bdb0adee912c1184d0b970"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "0b7a064f4161cfaf38ca1fc2d7feafdae3d60483ba5a69e023df5eef50033f01"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[FireFly]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "30e33c099f89a4c03ff450ff2fa9bde9158320e8"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "44d958c354e85426111029f82348972337e39861694b1fd406548163a691fbef"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.aarch64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[FireFly]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9a07a0902d4ac8d567107cc34f96a3f85d1ed4f1"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "da96985a7c3b48c1a1b9bde9c69bdc3f470eaa158efaf1641b70d557a75f3f08"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.aarch64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+[[FireFly]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f580b0807cd4bd5d8531f889294cfd0efd6541be"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "1d91198a19dc4aecaf1eec70c8ba0bb5e815f38651654b9d792da649641a9a16"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[FireFly]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "068d6fce91427a8a5921aa73f88554b1f035a260"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "7ef521422517a721bf6b1f912b40e693b44210b6e0c6d0926018377201f21029"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[FireFly]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "18f5cc9a70042fe14f75e958be903f2bc31933f7"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "d008567ed7cbb833eedf8a1693dda1f4db9fd7b9fd04185661af2a67e6625c34"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.aarch64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+[[FireFly]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6f241d3f4de3204e7579896328512d3b749aa7be"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "d7cb5a386ab55b27d087d4f9dc6cf698a68847bbd1095d6f49944a2670dc12fa"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.aarch64-linux-musl-cxx03-mpi+mpich.tar.gz"
+[[FireFly]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7d9f554b1857cc5190d204b1f0ca7bf06fd462cd"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "d8163b09a5234ab71a3d0ff8ba16fc6628a896d129e5cf0a8a356d4fd19d0759"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.aarch64-linux-musl-cxx03-mpi+openmpi.tar.gz"
+[[FireFly]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "42464aa92b096616cc0cda9f1fad9bc89989208e"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "ad0e22febebd163ac39a9ec6a6e1516b0e80a531d799c4018e9315c678ab693a"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
+[[FireFly]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4f34dd06f86f3a922bdec990f4c07815b53a08cf"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "7ecba5ba5df686a2129d6703bcdb68c5e4b5d628da292317d2b158ce73ab034d"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.aarch64-linux-musl-cxx11-mpi+openmpi.tar.gz"
+[[FireFly]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f5d10a47a254ee72f84f4141907b3c45766ffced"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "a4c6651d1d968450651a83e2241e6dffdb77e5c336159ef7d981cf2975974204"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.powerpc64le-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[FireFly]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "21b5ca6ae36b5718465aedf5dea5574d691c4b39"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "cd54fc370bffd6e9dec4f3e415fafe0e576d6bed014c327e94c89cd50014cf70"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.powerpc64le-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[FireFly]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "42f02a33226fdd64932cf206fe13dcf321eec5be"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "0d97cfd21b76954738a038266d58131e8768c6973442bdc3bf016bdda1fbd0fe"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.powerpc64le-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+[[FireFly]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6f0fccd0b63484c62f405708cee30ba2a5c59db3"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "d7f57e8674930ef36b909b592c0f56098ee7a5a09ef75bb70e6feef0eba67694"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.powerpc64le-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[FireFly]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "700641d12904ea43ae66af5a2084f12ce2467268"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "c9d986513f9b2c288c73f713d021818117b6f3ee535f32935cdc8c192f39b7c6"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.powerpc64le-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[FireFly]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dc1cb6f8ec90c197c6b0de942c78834cbc184742"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "120f38cd34e1d8937fa61c3af3def1122539facba2c4d1760c2124aa3029b36f"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.powerpc64le-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+[[FireFly]]
+arch = "x86_64"
+git-tree-sha1 = "d8949f825127dd7cf9aaf8dda7f6016aaee016d9"
+mpi = "mpich"
+os = "macos"
+
+    [[FireFly.download]]
+    sha256 = "924b4c4f2d3cdc5d35b2e7d56704a834147731fe904e7a5abe406aba3c0079e3"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.x86_64-apple-darwin-mpi+mpich.tar.gz"
+[[FireFly]]
+arch = "x86_64"
+git-tree-sha1 = "30c40a042cee6bdbe33f2aa39ac41ec732079a4f"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[FireFly.download]]
+    sha256 = "a0ef9f71ff89524416044e0b8fbf7ed096acefb9ee06d63534510a223eb4f2fb"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[FireFly]]
+arch = "x86_64"
+git-tree-sha1 = "e7c4f1b7aaa9398c466d84d0ccba6e04b996bc2b"
+mpi = "openmpi"
+os = "macos"
+
+    [[FireFly.download]]
+    sha256 = "f2e5f70cb7a016e70fc9e5fb93b2e12f65091344323074982ae87a2a38b10101"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+[[FireFly]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f439c77dd6c401eb7e50f4f46b450c86aeafa493"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "22c65847bfc9331c6ec830f85b20aaf2c0c000065f2dd62e351abafdf0ea586e"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[FireFly]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e7d89f529f8d5f4c97753e85f8ab2e32a4dc9cf6"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "6adb286fc91774b60338df54084971914509e384360340477e28fe85e4a7d074"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[FireFly]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "624b38339d0246bae6b53a8d1bd916b0910baf49"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "5c60d54fda50cadc2884d265fb04b7c07720e9240de1471c3c91d5b481c7dc77"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.x86_64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+[[FireFly]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "52dcc05ed2c14da6ac76495a527f924f3885651e"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "2d154a82973df0a6ef76e8ffb979f879a51c6c1c4c8406b5f3075b3ab1be8d1f"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[FireFly]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9d4385387fa88c8b737752e2479842baaff390c9"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "f4999271490573f7433a3113470395318d29aaefa433d48ba2816850426089a5"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[FireFly]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3e73e1af393c7c8c594688ac0c24558103687488"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "b2e7fdc6b4d53ee713832d083bf4d74db65300acc3d44586f91b14557b5b6d10"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+[[FireFly]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "73deb44b4535051f91652dc3a1de2a37f10baf0d"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "c06ed434bac674b514b3e66a13f54d00e74cd6c0ab1b27b4e43a39189ac732a4"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.x86_64-linux-musl-cxx03-mpi+mpich.tar.gz"
+[[FireFly]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9725390d4ae65ee4ce31ea0dbb15f835bf85f1eb"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "8faca3cb0b3ec6b42b9f9ee0b44fb5e1a75592abc8282712b6ca91eace7a1afa"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.x86_64-linux-musl-cxx03-mpi+openmpi.tar.gz"
+[[FireFly]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2f242eb19a1327b7e95d8c9d858a8d636ae9c5ed"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "ee8d211f7ae075a91f8ec826220e676d42377a5b87bd7d546789886fe849daa3"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
+[[FireFly]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3be7cd2735e447f6ad016bac8b3380df6bcf2b43"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[FireFly.download]]
+    sha256 = "b447220397886873b845ecc08ed250d06ab1d5e8d6902631b07ec24b81f57dcf"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.x86_64-linux-musl-cxx11-mpi+openmpi.tar.gz"
+[[FireFly]]
+arch = "x86_64"
+git-tree-sha1 = "0f49f989d89ba8f339954e34801e759a0ca65ad8"
+mpi = "mpich"
+os = "freebsd"
+
+    [[FireFly.download]]
+    sha256 = "d3b1f082c3d7b0e3fcdd8b7e19d1c0f642247ab8fc180aa8deb8db706b8d0aad"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+[[FireFly]]
+arch = "x86_64"
+git-tree-sha1 = "9705012e368201388de167d074085d59935d1995"
+mpi = "openmpi"
+os = "freebsd"
+
+    [[FireFly.download]]
+    sha256 = "e79d79225b9c7679479847e673c6ea651cea9a3410b727ccf212d88756f1de1a"
+    url = "https://github.com/JuliaBinaryWrappers/FireFly_jll.jl/releases/download/FireFly-v2.0.3+0/FireFly.v2.0.3.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"

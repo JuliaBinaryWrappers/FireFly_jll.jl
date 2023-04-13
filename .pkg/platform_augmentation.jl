@@ -35,4 +35,4 @@ function augment_mpi!(platform)
     return platform
 end
 
-    argument_platform!(platform::Platform) = augment_mpi!(platform)
+    augment_platform!(platform::Platform) = augment_mpi!(platform)
